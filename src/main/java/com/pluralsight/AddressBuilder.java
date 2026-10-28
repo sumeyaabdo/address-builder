@@ -6,7 +6,7 @@ public class AddressBuilder {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Asking for name
+        // Asking a user for name
         System.out.println("Full name: ");
         String fullName = scanner.nextLine();
 
